@@ -24,3 +24,16 @@ let z = x + y;
 console.log(z);
 const ifEven = (num) => 
 console.log
+let foldChair = 'green';
+let standChair = 'yellow';
+if (foldChair === 'green' && standChair === 'yellow')
+console.log('this is True');
+let iconA = 39;
+let iconB = 0;
+if (iconA === 0 || iconB === 0) 
+console.log('half TRUE')
+if (iconA === 39 || iconB === 0) {
+console.log('false')
+} else {
+    console.log('falsified')
+}
