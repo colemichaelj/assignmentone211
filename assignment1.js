@@ -34,6 +34,5 @@ if (iconA === 0 || iconB === 0)
 console.log('half TRUE')
 if (iconA === 39 || iconB === 0) {
 console.log('false')
-} else {
-    console.log('falsified')
+} else {   console.log('falsified')
 }
